@@ -12,7 +12,7 @@ const Navbar = ({ handleClick, isLoggedIn, isAdmin }) => (
         style={{ color: '#eeeeee', textDecoration: 'inherit' }}
         to="/home"
       >
-        covfefe
+        le magasin
       </Link>
       <button
         style={{ outline: 'none' }}
