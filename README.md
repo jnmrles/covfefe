@@ -12,7 +12,7 @@ To preview this, you will need `Postgres`, `Node.js`, and `NPM` installed on you
 In order to fully install all packages & dependencies:
 `npm install` in your run time environment
 
-You must then need to create a databse with Postgres called 'covfefe':
+You must then need to create a Postgres database with  called 'covfefe':
 `createdb covfefe`
 
 To View Products and load our databse with test data run:
