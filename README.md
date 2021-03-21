@@ -1,5 +1,8 @@
-# Magasin
-French for shop! E-commerce wesbite for all kinds of knicks and knacks
+# Coffee Shop
+
+A E-Commerce Coffee shop where fun random items are sold!
+
+This project was built under a time crunch of a week at the FullStack Academy. This was built with Agile methodologies in a team of 4 other developers
 
 
 ## Setup
