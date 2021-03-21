@@ -35,7 +35,7 @@ Finally:
 * HTML5
 
 ## Members
+* [Jovanni Morales](https://www.linkedin.com/in/jovanni-morales/)
 * [Shane Sweeney](https://www.linkedin.com/in/shanesween/)
 * [Timothy Long](https://www.linkedin.com/in/timothyleelong/)
 * [Lizzy Alvarez](https://www.linkedin.com/in/elizabethalvarezdev/)
-* [Jovanni Morales](https://www.linkedin.com/in/jovanni-morales/)
